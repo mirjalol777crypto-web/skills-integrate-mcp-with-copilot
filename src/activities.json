@@ -6,7 +6,9 @@
     "participants": [
       "michael@mergington.edu",
       "daniel@mergington.edu"
-    ]
+    ],
+    "category": "Academic",
+    "datetime": "2024-01-05T15:30:00"
   },
   "Programming Class": {
     "description": "Learn programming fundamentals and build software projects",
@@ -15,7 +17,9 @@
     "participants": [
       "emma@mergington.edu",
       "sophia@mergington.edu"
-    ]
+    ],
+    "category": "Technology",
+    "datetime": "2024-01-02T15:30:00"
   },
   "Gym Class": {
     "description": "Physical education and sports activities",
@@ -24,7 +28,9 @@
     "participants": [
       "john@mergington.edu",
       "olivia@mergington.edu"
-    ]
+    ],
+    "category": "Physical Education",
+    "datetime": "2024-01-01T14:00:00"
   },
   "Soccer Team": {
     "description": "Join the school soccer team and compete in matches",
@@ -33,7 +39,9 @@
     "participants": [
       "liam@mergington.edu",
       "noah@mergington.edu"
-    ]
+    ],
+    "category": "Sports",
+    "datetime": "2024-01-02T16:00:00"
   },
   "Basketball Team": {
     "description": "Practice and play basketball with the school team",
@@ -42,7 +50,9 @@
     "participants": [
       "ava@mergington.edu",
       "mia@mergington.edu"
-    ]
+    ],
+    "category": "Sports",
+    "datetime": "2024-01-03T15:30:00"
   },
   "Art Club": {
     "description": "Explore your creativity through painting and drawing",
@@ -51,7 +61,9 @@
     "participants": [
       "amelia@mergington.edu",
       "harper@mergington.edu"
-    ]
+    ],
+    "category": "Arts",
+    "datetime": "2024-01-04T15:30:00"
   },
   "Drama Club": {
     "description": "Act, direct, and produce plays and performances",
@@ -60,7 +72,9 @@
     "participants": [
       "ella@mergington.edu",
       "scarlett@mergington.edu"
-    ]
+    ],
+    "category": "Arts",
+    "datetime": "2024-01-01T16:00:00"
   },
   "Math Club": {
     "description": "Solve challenging problems and participate in math competitions",
@@ -69,7 +83,9 @@
     "participants": [
       "james@mergington.edu",
       "benjamin@mergington.edu"
-    ]
+    ],
+    "category": "Academic",
+    "datetime": "2024-01-02T15:30:00"
   },
   "Debate Team": {
     "description": "Develop public speaking and argumentation skills",
@@ -78,6 +94,8 @@
     "participants": [
       "charlotte@mergington.edu",
       "henry@mergington.edu"
-    ]
+    ],
+    "category": "Academic",
+    "datetime": "2024-01-05T16:00:00"
   }
 }

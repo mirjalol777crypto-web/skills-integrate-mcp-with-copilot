@@ -15,6 +15,35 @@
     <main>
       <section id="activities-container">
         <h3>Available Activities</h3>
+        <div id="filters-container">
+          <div class="filter-group">
+            <label for="search-input">Search:</label>
+            <input type="text" id="search-input" placeholder="Search activities..." />
+          </div>
+          <div class="filter-group">
+            <label for="category-filter">Category:</label>
+            <select id="category-filter">
+              <option value="">All Categories</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="availability-filter">Availability:</label>
+            <select id="availability-filter">
+              <option value="">All</option>
+              <option value="available">Has Spots Available</option>
+              <option value="full">Full</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="sort-select">Sort By:</label>
+            <select id="sort-select">
+              <option value="name-asc">Name (A-Z)</option>
+              <option value="name-desc">Name (Z-A)</option>
+              <option value="time-asc">Time (Earliest First)</option>
+              <option value="time-desc">Time (Latest First)</option>
+            </select>
+          </div>
+        </div>
         <div id="activities-list">
           <!-- Activities will be loaded here -->
           <p>Loading activities...</p>
